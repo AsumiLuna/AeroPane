@@ -5,3 +5,7 @@ Vista Clear Theme:
 
 Vista Shiny Theme:
 ![alt text](https://github.com/AsumiLuna/AeroPane/blob/main/win10shinypane.PNG?raw=true)
+
+Custom frame margins:
+![alt text](https://raw.githubusercontent.com/AsumiLuna/AeroPane/main/aeroframe.PNG)
+
