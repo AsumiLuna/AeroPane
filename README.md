@@ -1,11 +1,15 @@
-A singular pane of aero glass.... that's literally it. Or just a really bad sticky note you can't write to, it just depends on the theme!
+A simple Windows application made for aero rendering tests. 
+Supports Windows Vista, 7, 8, 8.1, 10, 11 (x64)
 
-Vista Clear Theme:
+Tested: VistaSP2, 7, 10, 11
+Untested: VistaSP1, 8, 8.1. 
+
+Win 10 Vista Clear Theme:
 ![alt text](https://github.com/AsumiLuna/AeroPane/blob/main/Aeropane.PNG?raw=true)
 
-Vista Shiny Theme:
+Win 10 Vista Shiny Theme:
 ![alt text](https://github.com/AsumiLuna/AeroPane/blob/main/win10shinypane.PNG?raw=true)
 
-Custom frame margins:
+Win 10 Custom frame margins:
 ![alt text](https://raw.githubusercontent.com/AsumiLuna/AeroPane/main/aeroframe.PNG)
 
