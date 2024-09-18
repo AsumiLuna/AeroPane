@@ -4,6 +4,8 @@ Supports Windows Vista, 7, 8, 8.1, 10, 11 (x64)
 Tested: VistaSP2, 7, 10, 11
 Untested: VistaSP1, 8, 8.1. 
 
+Latest release: https://github.com/AsumiLuna/AeroPane/releases/tag/1.0.3
+
 Win 10 Vista Clear Theme:
 ![alt text](https://github.com/AsumiLuna/AeroPane/blob/main/Aeropane.PNG?raw=true)
 
