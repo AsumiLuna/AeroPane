@@ -1,3 +1,5 @@
+WARNING: I did not write the code to this application, I only described the logic to ChatGPT, which then wrote the code.
+========================================================================================================================
 A simple Windows application made for aero rendering tests. 
 Supports Windows Vista, 7, 8, 8.1, 10, 11 (x64)
 
