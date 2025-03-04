@@ -3,8 +3,10 @@ WARNING: I did not write the code to this application, I only described the logi
 A simple Windows application made for aero rendering tests. 
 Supports Windows Vista, 7, 8, 8.1, 10, 11 (x64)
 
-Tested: VistaSP2, 7, 10, 11
-Untested: VistaSP1, 8, 8.1. 
+Tested: VistaSP2, 7, 8, 10, 11
+
+Untested: VistaSP1, 8.1. 
+
 
 Latest release: https://github.com/AsumiLuna/AeroPane/releases/tag/1.0.4_final
 
